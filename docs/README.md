@@ -8,7 +8,7 @@ description: '云原生社区稳定性 SIG(包括不限于 Chaos , Fuzz , HA 高
 
 ## 加入 Stability SIG
 
-请填写[申请表](https://wj.qq.com/s2/7438465/6bd6)加入微信交流群。
+请填写[申请表](https://wj.qq.com/s2/7666924/93eb/)加入微信交流群。
 
 ## 如何提问
 
