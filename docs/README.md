@@ -1,12 +1,12 @@
 ---
-description: 云原生社区稳定性 SIG
+description: '云原生社区稳定性 SIG(包括不限于 Chaos , Fuzz , HA 高可用 , 多集群等有助系统稳定性的范围)'
 ---
 
 # 欢迎
 
 欢迎来到云原生社区稳定性 SIG（特别兴趣小组）！
 
-## 加入 Istio SIG
+## 加入 Stability SIG
 
 请填写[申请表](https://wj.qq.com/s2/7438465/6bd6)加入微信交流群。
 
@@ -18,4 +18,5 @@ description: 云原生社区稳定性 SIG
 
 **负责人**
 
-- [张慧](https://github.com/zhanghuidinah)
+* [张慧](https://github.com/zhanghuidinah)
+
