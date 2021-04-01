@@ -14,7 +14,7 @@ description: 云原生社区稳定性 SIG
 
 ## 参考资料
 
-* [混沌工程概念](https://principlesofchaos.org/)：混沌工程概念介绍。
+* [混沌工程原则](https://principlesofchaos.org/)：混沌工程原则介绍。
 * [Chaos Mesh Github Repo](https://github.com/chaos-mesh/chaos-mesh)：混沌工具 - Chaos Mesh 代码库。
 * [Chaosblade Github Repo](https://github.com/chaosblade-io/chaosblade)：混沌工具 - Chaosblade 代码库。
 * [Powerfulseal Github Repo](https://github.com/powerfulseal/powerfulseal)：混沌工具 - Powerfulseal 代码库。
