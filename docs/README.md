@@ -34,4 +34,5 @@ description: 云原生社区稳定性 SIG
 **负责人**
 
 * [张慧](https://github.com/zhanghuidinah)
+* [殷成文](https://github.com/cwen0)
 
